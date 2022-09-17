@@ -1,4 +1,4 @@
-const apiKey = "d03799692be1c26faf0ade18a4205f9f";
+const apiKey = "sorry please use your own key";
 
 export const originals = `trending/all/week?api_key=${apiKey}&language=en-US`;
 
