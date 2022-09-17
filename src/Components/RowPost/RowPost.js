@@ -3,7 +3,7 @@ import axios from "../../axios";
 import "./RowPost.css";
 import Youtube from "react-youtube";
 const imgurl = "https://image.tmdb.org/t/p/original";
-const apiKey = "d03799692be1c26faf0ade18a4205f9f";
+const apiKey = "encrypted";
 function RowPost(props) {
   const [movies, setMovies] = useState([]);
   const [mid, setMid] = useState();
