@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./Banner.css";
 import axios from "../../axios";
-const Apikey = "d03799692be1c26faf0ade18a4205f9f";
+const Apikey = "¥€¥¢¢®{®{<{<{<{<{<} {>";
 const imgurl = "https://image.tmdb.org/t/p/original";
 var randomnum = Math.floor(Math.random() * 20);
 function Banner() {
